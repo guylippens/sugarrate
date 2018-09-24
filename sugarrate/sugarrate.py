@@ -2,7 +2,7 @@ import numpy as np
 import argparse
 
 
-def regulate(output_dir='.', n=5000, s=0.001, l=0.4, t=3):
+def regulate(output_dir='.', n=50000, s=0.001, l=0.4, t=3):
     """generate 3 files results. 
 
     Args:
